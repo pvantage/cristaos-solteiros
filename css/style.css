@@ -1,0 +1,33 @@
+/* CSS Document */
+
+.maincontent {
+    text-align: center;
+}
+.logomain img {
+    max-width: 300px;
+}
+.clickmain {
+    text-align: center;
+    float: left;
+    width: 100%;
+	margin-top: 40px;
+}
+a.clickbtn {
+    background: #aa1238;
+    color: #fff;
+    padding: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 5px;
+	    display: inline-block;
+}
+.midcontent{
+    color: #fff !important;
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 100%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
