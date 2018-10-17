@@ -20,8 +20,7 @@
 	<plugin name="cordova-plugin-splashscreen" />
 	<plugin name="cordova-plugin-statusbar" />	
 	<preference name="android-targetSdkVersion" value="26"/>
-	<preference name="phonegap-version" value="cli-7.1.0" />
-	<preference name="StatusBarDefaultScrollToTop" value="false" />
+	<preference name="phonegap-version" value="cli-7.1.0" />	
 	<plugin name="cordova-plugin-inappbrowser" spec="~1.7.1" />
 	<icon src="icon.png" />
 	<icon gap:platform="webos" src="res/icon/ios/Icon-180.png" />
